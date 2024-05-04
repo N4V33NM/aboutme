@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Naveen+kumar+(penetration+tester))](https://git.io/typing-svg)
 
-🖊️ Naveen kumar is a Penetration Tester with a deep understanding of the OWASP Top 10 vulnerabilities. Nitin's career is dedicated to identifying, exploiting, and helping to remediate security vulnerabilities to strengthen an organization's security posture.
+🖊️ Naveen kumar is a Penetration Tester with a deep understanding of the OWASP Top 10 vulnerabilities. Naveen's career is dedicated to identifying, exploiting, and helping to remediate security vulnerabilities to strengthen an organization's security posture.
 
 📋 Naveen's expertise lies in conducting comprehensive penetration tests, vulnerability assessments, and security audits. I am proficient in using various penetration testing tools and frameworks, such as Kali Linux, Metasploit, and Burp Suite.
 
